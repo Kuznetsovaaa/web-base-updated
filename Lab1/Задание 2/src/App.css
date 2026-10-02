@@ -21,13 +21,13 @@ body,
 }
 
 .flex-container > div:nth-child(2) {
-    margin-top: 100px;
+    align-self: center;
 }
 
 .flex-container > div:nth-child(3) {
-    margin-top: 200px;
+    align-self: flex-end;
 }
 
 .flex-container > div:nth-child(4) {
-    margin-top: 100px;
+    align-self: center;
 }
